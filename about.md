@@ -6,9 +6,6 @@ permalink: /about/
 
 I am a Computer Science student currently pursuing internships within the Tech and Space Industry. 
 
-### More Information
-
-
 
 ### Contact me
 
