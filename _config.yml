@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: remote_theme: hmfaysal/Notepad
+remote_theme: hmfaysal/Notepad
